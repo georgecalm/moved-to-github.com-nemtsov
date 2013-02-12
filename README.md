@@ -1,1 +1,1 @@
-[New home](https://github.com/nemtsov)
+Here's my [new repository location](https://github.com/nemtsov).
